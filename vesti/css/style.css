@@ -1,0 +1,65 @@
+#lista{
+    margin-top:8px;
+    margin-right:8px; 
+     
+}
+#dropdownMenu1{
+    background-color: transparent;
+    border: none;
+}
+#dropdownMenu1:active{
+    border: none;
+}
+#strelica{
+    color: #fff;
+}
+
+.comment_div
+{    
+	width:500px;
+	text-align:left;
+	margin:20px auto;
+	background:#F3F3F3;
+	text-align:center;
+}
+#korisnik{
+    margin-bottom: 10px;
+}
+#text{
+    margin-bottom: 10px;
+    width: 650;
+    max-width: 650;
+    
+}
+.korisnik{
+	height:30px;
+	line-height:30px;
+	padding:8px;
+	background:#fff;
+	color:#777;
+	text-align:left;
+}
+.text{
+	padding:0px 0px 24px 0px;
+	font-size:20px;	
+}
+#login{
+    margin-top: 200px;
+}
+#login1{
+    margin-top: 50px;
+}
+.vest {
+    text-decoration: none;
+    list-style: none;
+    color: gray;
+}
+.vest:hover {
+    text-decoration: none;
+    list-style: none;
+    color: gray;
+}
+#all_comments{
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
